@@ -17,6 +17,7 @@ django-extensions = "*"
 django-rest-swagger = "*"
 
 [dev-packages]
+pylint = "*"
 
 [scripts]
 make = "python manage.py makemigrations"
